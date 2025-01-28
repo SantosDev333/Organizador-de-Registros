@@ -1,0 +1,7 @@
+Nome     |     Idade     |     Cidade
+Ana             25        Rio De Janeiro
+Beatriz         28        Belo Horizonte
+Diego           19        Santa Catarina
+Joao            22        Curitiba   
+Lucas           30        Sao Paulo  
+Welinton        40        Porto Da Madama
