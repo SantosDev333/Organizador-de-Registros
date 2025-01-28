@@ -1,0 +1,6 @@
+Ana,25,Rio de Janeiro
+Lucas,30,Sao Paulo
+Beatriz,28,Belo Horizonte
+Joao,22,Curitiba
+Welinton,40,Porto da Madama 
+diego,19,santa catarina
